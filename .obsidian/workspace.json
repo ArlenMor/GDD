@@ -8,13 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d0958c039f61d79",
+            "id": "5330a45d455f8598",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Концепция.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Концепция"
+            }
+          },
+          {
+            "id": "4276a2f35d41bbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Анализ рынка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализ рынка"
+            }
+          },
+          {
+            "id": "3336a652c84098a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Итоговая идея.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Итоговая идея"
             }
           }
         ]
@@ -49,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Timberborn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,32 +196,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d0958c039f61d79",
+  "active": "5330a45d455f8598",
   "lastOpenFiles": [
-    "GDD/Функциональная спецификация.md",
-    "GDD/Файлы/Pasted image 20250402210123.png",
+    "GDD/Референсы/Рефы на строительство.md",
     "GDD/Концепция.md",
-    "GDD/Контакты.md",
+    "GDD/Анализ рынка.md",
+    "GDD/Референсы/Рефы на вращения.md",
+    "GDD/Референсы/Референсы.md",
+    "GDD/Функциональная спецификация.md",
     "GDD/Итоговая идея.md",
+    "GDD/Генерация идей.md",
+    "GDD/Оглавление.md",
+    "GDD/Контакты.md",
+    "GDD/Референсы/Рефы на стиль.md",
     "GDD/Введение.md",
+    "GDD/Файлы/Pasted image 20250406173350.png",
+    "GDD/Файлы/Pasted image 20250406173341.png",
+    "GDD/Файлы/Pasted image 20250406173315.png",
+    "GDD/Файлы/Pasted image 20250406173107.png",
+    "GDD/Файлы/Pasted image 20250406173051.png",
+    "GDD/Файлы/Pasted image 20250406173039.png",
+    "GDD/Файлы/Pasted image 20250406172226.png",
+    "GDD/Файлы/Pasted image 20250406171829.png",
+    "GDD/Файлы/Pasted image 20250406171758.png",
+    "GDD/Файлы/Pasted image 20250402210123.png",
     "2025-04-06.md",
     "Untitled.canvas",
-    "GDD/Референсы/Референсы.md",
     "Untitled",
-    "GDD/Референсы/Pasted image 20250406171758.png",
     "GDD/Untitled/Untitled.md",
-    "GDD/Референсы/Pasted image 20250406172226.png",
-    "GDD/Генерация идей.md",
-    "GDD/Референсы/Pasted image 20250406171829.png",
-    "GDD/Оглавление.md",
-    "GDD/Файлы/Pasted image 20250401222042.png",
     "GDD/Референсы",
-    "GDD/Референсы/Pasted image 20250406173350.png",
-    "GDD/Референсы/Pasted image 20250406173341.png",
-    "GDD/Референсы/Pasted image 20250406173315.png",
-    "GDD/Референсы/Pasted image 20250406173107.png",
-    "GDD/Референсы/Pasted image 20250406173051.png",
-    "Untitled.md",
     "2025-04-02.md",
     "Untitled 1.canvas",
     "GDD/Файлы"
